@@ -1,7 +1,7 @@
 # PythonStudy
 ## karel
 ### chessboard maker
-## number checker
+## 迴圈與運算實作
 ### *[階乘運算](Assignment2/extension1_factorial.py)* 
 ### *[完全數](Assignment2/extension2_number_checker.py)* 
 ### *[質數](Assignment2/prime_checker.py)*
