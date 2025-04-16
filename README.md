@@ -1,6 +1,7 @@
 # PythonStudy
 1. karel
-   - chessboard maker
+   - *[柱子填補](Assignment1/StoneMasonKarel.py)*
+   - *[棋盤彩繪](Assignment1/CheckboardKarel.py)*
 2. 迴圈與運算實作
    - *[階乘運算](Assignment2/extension1_factorial.py)*
    - *[完全數](Assignment2/extension2_number_checker.py)*
