@@ -1,4 +1,6 @@
-# PythonStudy
+# 自主學習計畫--python程式研究與實作
+
+# 成果作品集
 1. karel
    - *[柱子填補](Assignment1/StoneMasonKarel.py)*
    - *[棋盤彩繪](Assignment1/CheckerboardKarel.py)*
