@@ -36,7 +36,7 @@ def main():
         for i in range(digit):
             a = check2 % 10
             b = 1
-            for i in range(amount):
+            for i in range(digit):
                 if a !=0:
                     b = b*a
             c += b
